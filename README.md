@@ -1,6 +1,8 @@
-🤖 AI Inbound Receptionist System
+# 🤖 AI Inbound Receptionist System
 
-A production-ready AI voice receptionist that answers calls, books appointments, updates CRM records, and sends confirmations automatically — all in real time.
+> A production-ready AI voice receptionist that answers inbound calls, books appointments, updates CRM records, and sends confirmations automatically — all in real time.
+
+---
 
 
 🚀 Overview
