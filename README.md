@@ -29,12 +29,10 @@ This project is a production-ready AI voice receptionist that answers inbound ca
 ---
 
 ## Demo
-## 🎥 Demo Video
-
-[Watch the AI Receptionist Demo][(https://your-youtube-link-here)](https://youtu.be/-OLORCkWoG0)
+## 🎥 Demo Video ( how it works )
 
 
-(Insert video link here)
+https://youtu.be/-OLORCkWoG0
 
 ---
 
