@@ -36,5 +36,5 @@ This project is a production-ready AI voice receptionist that answers inbound ca
 ---
 
 ## System Architecture
-![Workflow Screenshot](screenshot-name.png)
+![Workflow Screenshot](Screenshot 2026-02-11 150516.png)
 
